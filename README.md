@@ -70,8 +70,8 @@
 
 | Years | Role | Organization |
 |:---:|---|---|
-| 2022 to 2024 | Deputy CEO, then Acting Chief Executive Officer | National Security Services Group (NSSG) |
-| 2020 to 2022 | Chief Cyber Security and R&D | National Security Services Group (NSSG) |
+| 2022 to 2024 | Deputy CEO, then Acting Chief Executive Officer | National Security Services Group (NSSG), now part of Dreamlab Technologies |
+| 2020 to 2022 | Chief Cyber Security and R&D | National Security Services Group (NSSG), now part of Dreamlab Technologies |
 | 2019 | Chief Technology Officer | Dreamlab Technologies |
 | 2008 to 2017 | Founder & Chief Executive Officer | Eagle Eye Digital Solutions |
 | 1996 to 2015 | Senior Research & Development Manager: a 40-member technical team and a national digital forensics laboratory | ONS |
