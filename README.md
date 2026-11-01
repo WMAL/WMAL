@@ -26,11 +26,11 @@
 <a href="https://vooum.com"><img src="assets/card-vooum.png" width="49%" alt="Vooum, since 2026: trading-signal system with live paper signals, not financial advice"/></a>
 </p>
 <p align="center">
-<a href="https://om77.net"><img src="assets/card-om77.png" width="49%" alt="om77.net, since 2001: the Omani community platform with more than 170,000 members"/></a>
-<a href="https://avoid-coinomi.com"><img src="assets/card-coinomi.png" width="49%" alt="Avoid Coinomi, since 2019: evidence archive of the 2019 Coinomi wallet case"/></a>
+<a href="https://om77.net"><img src="assets/card-om77-v2.png" width="49%" alt="om77.net, since 2001: the Omani community platform with more than 170,000 members"/></a>
+<a href="https://avoid-coinomi.com"><img src="assets/card-coinomi-v2.png" width="49%" alt="Avoid Coinomi, since 2019: evidence archive of the 2019 Coinomi wallet case"/></a>
 </p>
 <p align="center">
-<a href="https://www.digi77.com"><img src="assets/card-digi77.png" width="49%" alt="digi77.com, since 2013: research and publishing"/></a>
+<a href="https://www.digi77.com"><img src="assets/card-digi77-v2.png" width="49%" alt="digi77.com, since 2005: research and publishing"/></a>
 </p>
 
 <p align="center"><sub>Click a card to open the system · <a href="https://www.digi77.com/founder/">One founder, five systems</a> · Kodachi source: <a href="https://github.com/WMAL/kodachios">WMAL/kodachios</a></sub></p>
@@ -61,7 +61,7 @@
 ## Career
 
 <p align="center">
-<img src="assets/timeline.png" width="100%" alt="Career timeline: 1996 ONS, R&D manager of a 40-member team; 2001 om77.net founded; 2008 Eagle Eye Digital Solutions, founder and CEO; 2013 Kodachi OS and digi77.com; 2019 Dreamlab CTO and Avoid Coinomi; 2020 NSSG Deputy CEO; 2022 NSSG Acting CEO to 2024; 2026 Vooum founded"/>
+<img src="assets/timeline-v2.png" width="100%" alt="Career timeline: 1996 ONS, R&D manager of a 40-member team; 2001 om77.net founded; 2005 digi77.com founded; 2008 Eagle Eye Digital Solutions, founder and CEO; 2013 Kodachi OS first release; 2019 Dreamlab CTO and Avoid Coinomi; 2020 NSSG Deputy CEO; 2022 NSSG Acting CEO to 2024; 2026 Vooum founded"/>
 </p>
 
 <details>
