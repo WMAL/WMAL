@@ -45,7 +45,9 @@
 | 🥇 | 2025 | **Kodachi listed first**, 5 best Linux distros for staying anonymous | [ZDNet](https://www.zdnet.com/article/5-best-linux-distros-for-staying-anonymous-when-a-vpn-isnt-enough/) |
 | 🥇 | 2025 | **Kodachi listed first**, Linux distributions for keeping your digital identity secret | [Al Jazeera Net](https://www.aljazeera.net/tech/2025/6/17/%d8%a3%d9%81%d8%b6%d9%84-%d8%aa%d9%88%d8%b2%d9%8a%d8%b9%d8%a7%d8%aa-%d9%84%d9%8a%d9%86%d9%83%d8%b3-%d9%84%d9%84%d8%ad%d9%81%d8%a7%d8%b8-%d8%b9%d9%84%d9%89-%d8%b3%d8%b1%d9%8a%d8%a9) |
 | 🏅 | 2024 | **PassRay** (NSSG), highly commended: Outstanding Cybersecurity Product of the Year | [Intersec 2024](https://timesofoman.com/article/141326-nssgs-passray-honoured-as-outstanding-cybersecurity-product-of-the-year-at-intersec-2024) |
+| 🏆 | 2023 | **Named one of the Top 50 CEOs of 2023**, as Acting CEO of NSSG | [Arabian Business](https://www.arabianbusiness.com/listing/revealed-arabian-business-top-50-ceos-of-2023) |
 | 🏆 | 2023 | **NSSG, Cybersecurity Company of the Year**, accepted as Acting CEO | [OER Corporate Excellence Awards](https://www.einpresswire.com/article/668529907/nssg-awarded-cybersecurity-company-of-the-year-at-oer-corporate-excellence-awards-2023) |
+| 🏆 | 2023 | **NSSG, Excellence in Technology** | [COMEX 2023](https://www.samenacouncil.org/samena_daily_news?news=96634) |
 | 🥇 | 2022 | **Linux Kodachi ranked #1** of the 9 best Linux distros for privacy-focused users | [MakeUseOf](https://www.makeuseof.com/best-linux-distros-for-privacy-security/) |
 | 🏆 | 2021 | **Lab Hot Product**, Linux Kodachi | [APC Magazine](https://kodachi.cloud/downloads/installers/press/APC-Magazine--496-August-2021-Australia.pdf) |
 | 🥇 | 2020 | **Top privacy distribution**, Linux Kodachi | [Linux Format](https://kodachi.cloud/downloads/installers/press/Linux_Format_UK_Issue_267_September_2020.pdf) |
