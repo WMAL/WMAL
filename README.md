@@ -22,7 +22,7 @@
 ## The systems I founded
 
 <p align="center">
-<a href="https://kodachi.cloud"><img src="assets/card-kodachi.png" width="49%" alt="Kodachi OS, since 2013: privacy-focused Linux with VPN and Tor routing, encrypted DNS, hardening and a live security dashboard"/></a>
+<a href="https://kodachi.cloud"><img src="assets/card-kodachi-v2.png" width="49%" alt="Kodachi OS, since 2013: privacy-focused Linux with VPN and Tor routing, encrypted DNS, hardening and a live security dashboard"/></a>
 <a href="https://vooum.com"><img src="assets/card-vooum.png" width="49%" alt="Vooum, since 2026: trading-signal system with live paper signals, not financial advice"/></a>
 </p>
 <p align="center">
