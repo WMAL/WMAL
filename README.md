@@ -50,6 +50,7 @@
 | 🏆 | 2023 | **NSSG, Excellence in Technology** | [COMEX 2023](https://www.samenacouncil.org/samena_daily_news?news=96634) |
 | 🥇 | 2022 | **Linux Kodachi ranked #1** of the 9 best Linux distros for privacy-focused users | [MakeUseOf](https://www.makeuseof.com/best-linux-distros-for-privacy-security/) |
 | 🏆 | 2021 | **Lab Hot Product**, Linux Kodachi | [APC Magazine](https://kodachi.cloud/downloads/installers/press/APC-Magazine--496-August-2021-Australia.pdf) |
+| 🥇 | 2021 | **Linux Kodachi listed first**, Top 10 Most Secure Linux Distros for Personal Use | [LinuxHint](https://kodachi.cloud/downloads/installers/press/Linuxhint.pdf) |
 | 🥇 | 2020 | **Top privacy distribution**, Linux Kodachi | [Linux Format](https://kodachi.cloud/downloads/installers/press/Linux_Format_UK_Issue_267_September_2020.pdf) |
 | 🥇 | Earlier | **SSL Eye**, first place in the innovation competition | [ITU Arab Regional Cybersecurity Center](https://www.digi77.com/archived-projects/) |
 
