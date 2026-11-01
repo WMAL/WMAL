@@ -2,7 +2,7 @@
 
 <img src="assets/banner.png" alt="Warith AL Maawali: cybersecurity leader and technology founder, creator of Kodachi OS, founder of Vooum" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=8CC63F&center=true&vCenter=true&width=700&lines=Creator+of+Kodachi+OS%2C+TechRadar%27s+%231+privacy+distro+of+2025;Founder+of+Vooum%2C+a+trading-signal+system;30+years+in+cybersecurity%2C+digital+forensics+and+R%26D;Rust+%C2%B7+Bash+%C2%B7+Linux+%C2%B7+privacy+engineering)](https://kodachi.cloud)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=8CC63F&center=true&vCenter=true&width=700&lines=Creator+of+Kodachi+OS%2C+TechRadar%27s+%231+privacy+distro+2021+to+2025;Founder+of+Vooum%2C+a+trading-signal+system;30+years+in+cybersecurity%2C+digital+forensics+and+R%26D;Rust+%C2%B7+Bash+%C2%B7+Linux+%C2%B7+privacy+engineering)](https://kodachi.cloud)
 
 [![Kodachi OS](https://img.shields.io/badge/Kodachi_OS-0d1117?style=for-the-badge&logo=linux&logoColor=8CC63F)](https://kodachi.cloud)
 [![Vooum](https://img.shields.io/badge/Vooum-0d1117?style=for-the-badge&logo=bitcoin&logoColor=FF6B2C)](https://vooum.com)
@@ -41,7 +41,7 @@
 
 | | Year | Recognition | By |
 |:---:|:---:|---|---|
-| 🥇 | 2025 | **Kodachi ranked first**, best Linux distro for privacy and security, on the list every year from 2020 to 2025 | [TechRadar](https://www.techradar.com/news/best-linux-distro-privacy-security) |
+| 🥇 | 2021 to 2025 | **Kodachi ranked first five years running**, best Linux distro for privacy and security | [TechRadar](https://www.techradar.com/news/best-linux-distro-privacy-security) |
 | 🥇 | 2025 | **Kodachi listed first**, 5 best Linux distros for staying anonymous | [ZDNet](https://www.zdnet.com/article/5-best-linux-distros-for-staying-anonymous-when-a-vpn-isnt-enough/) |
 | 🥇 | 2025 | **Kodachi listed first**, Linux distributions for keeping your digital identity secret | [Al Jazeera Net](https://www.aljazeera.net/tech/2025/6/17/%d8%a3%d9%81%d8%b6%d9%84-%d8%aa%d9%88%d8%b2%d9%8a%d8%b9%d8%a7%d8%aa-%d9%84%d9%8a%d9%86%d9%83%d8%b3-%d9%84%d9%84%d8%ad%d9%81%d8%a7%d8%b8-%d8%b9%d9%84%d9%89-%d8%b3%d8%b1%d9%8a%d8%a9) |
 | 🏅 | 2024 | **PassRay** (NSSG), highly commended: Outstanding Cybersecurity Product of the Year | [Intersec 2024](https://timesofoman.com/article/141326-nssgs-passray-honoured-as-outstanding-cybersecurity-product-of-the-year-at-intersec-2024) |
