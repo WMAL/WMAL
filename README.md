@@ -61,7 +61,7 @@
 ## Career
 
 <p align="center">
-<img src="assets/timeline-v2.png" width="100%" alt="Career timeline: 1996 ONS, R&D manager of a 40-member team; 2001 om77.net founded; 2005 digi77.com founded; 2008 Eagle Eye Digital Solutions, founder and CEO; 2013 Kodachi OS first release; 2019 Dreamlab CTO and Avoid Coinomi; 2020 NSSG Deputy CEO; 2022 NSSG Acting CEO to 2024; 2026 Vooum founded"/>
+<img src="assets/timeline-v3.png" width="100%" alt="Career timeline: 1996 ONS, R&D manager of a 40-member team; 2001 om77.net founded; 2005 digi77.com founded; 2008 Eagle Eye Digital Solutions, founder and CEO; 2013 Kodachi OS first release; 2019 Dreamlab CTO and Avoid Coinomi; 2020 NSSG, Chief Cyber Security and R&D; 2022 NSSG, Deputy CEO and Acting CEO to 2024; 2026 Vooum founded"/>
 </p>
 
 <details>
@@ -70,8 +70,8 @@
 
 | Years | Role | Organization |
 |:---:|---|---|
-| 2022 to 2024 | Acting Chief Executive Officer | National Security Services Group (NSSG) |
-| 2020 to 2022 | Deputy Chief Executive Officer | National Security Services Group (NSSG) |
+| 2022 to 2024 | Deputy CEO, then Acting Chief Executive Officer | National Security Services Group (NSSG) |
+| 2020 to 2022 | Chief Cyber Security and R&D | National Security Services Group (NSSG) |
 | 2019 | Chief Technology Officer | Dreamlab Technologies |
 | 2008 to 2017 | Founder & Chief Executive Officer | Eagle Eye Digital Solutions |
 | 1996 to 2015 | Senior Research & Development Manager: a 40-member technical team and a national digital forensics laboratory | ONS |
